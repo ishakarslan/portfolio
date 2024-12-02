@@ -2,18 +2,38 @@
 **GSM**: +90 544-431-8803 | **Email**: ishak.arslan@mysystem.org | **LinkedIn**: [in/ishak](https://www.linkedin.com/in/ishak/)
 
 ---
+### Professional Summary
+
+With extensive expertise in Linux/Unix-like operating systems and open-source-based security solutions, I have consistently leveraged my deep understanding of these platforms to design and implement robust defensive security frameworks. My experience spans delivering critical infrastructure monitoring and security solutions, integrating enterprise-grade SIEM platforms, and contributing to national-level cybersecurity initiatives focused on open-source innovation. Recently, I have expanded my expertise into EVM-based blockchain technologies, specializing in smart contract auditing, securing blockchain infrastructure, and safeguarding decentralized applications (dApps). This unique combination of Linux/Unix proficiency, open-source innovation, and blockchain specialization enables me to deliver effective and scalable solutions for diverse security challenges.
+
 #### Work History
 **Secops Engineer**, _GrafClouds 2019 – Present_<br />
 
+*Defensive Security Solutions :*
+
   * Unix, BSD (OpenBSD FreeBSD NetBSD), Linux (RHEL, Centos ,SLES, Debian) Support
-  * SOC/NOC Setups
+  * Deployed and managed open-source SIEM/IDS solutions, including Wazuh, Suricata, and Snort.
   * On-Premises and Cloud Hardening (Linux, Windows, Network Devices)
   * Penetration Testing, Vulnerability Assessments
   * Network Optimizations (TCP/IP, Routing, Switching, IPT, Collaborations)
   * Open Source Software, Linux Server Family
-  * Orchestration with Ansible, SaltStack, SpaceWalk
+  * Automated security tasks using Ansible and Python, improving incident response times.
+  * Expertise in Kali Linux, Metasploit Framework, Burp Suite, Nmap, and other penetration testing tools for vulnerability assessments and security audits.
+
+*Linux Expertise :*
+  * Secured and optimized Linux systems (RHEL, Ubuntu, Debian) in on-premises and cloud environments.
+  * Developed and deployed kernel-level hardening and security modules for production systems.
+
+*Blockchain Security :*
+  * Audited EVM-based smart contracts for vulnerabilities, including reentrancy, integer overflows, and logic flaws.
+  * Hardened blockchain nodes and infrastructure for Ethereum, Binance Smart Chain, and other EVM-compatible networks.
+  * Designed and deployed secure environments for decentralized applications (dApps) using best practices.
+  * Implemented monitoring solutions for on-chain activity to detect anomalies and potential exploits.
+  * Blockscout block explorer, Backend, Frontend, Stats and other components.
+  * Hands-on experience with Uniswap, including liquidity pool management, token swaps, and understanding of AMM (Automated Market Maker) mechanics
   
-  Products I Support : Ossec, Snort/Suricata, Ossim, Qradar, ELK Stack, Zabbix, Nagios, NetFlow, SFlow, Cyberthreat simulation, Apache, Nginx, Squid, Postfix, OpenLDAP, OpenSSL, Qmail, MySQL, PostgreSQL, SQLite, Zimbra
+*Products I Support :* 
+  * Ossec, Snort/Suricata, Ossim, Qradar, ELK Stack, Zabbix, Nagios, NetFlow, SFlow, Cyberthreat simulation, Apache, Nginx, Squid, Postfix, OpenLDAP, OpenSSL, Qmail, MySQL, PostgreSQL, SQLite, Zimbra
   
 
 **Secops Engineer**, _BilgiO A.Ş. 2015-2017_<br />
