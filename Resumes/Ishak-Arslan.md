@@ -1,5 +1,5 @@
 ## Ishak Arslan _(Secops Engineer & Security Expert)_
-**GSM**: +90 544-431-8803 | **Email**: ishak.arslan@mysystem.org | **LinkedIn**: [in/ishak](https://www.linkedin.com/in/ishak/)
+**GSM**: +90 544-431-8803 | **Email**: ishak.arslan@mysystem.org | **LinkedIn**: [in/ishak](https://www.linkedin.com/in/ishak-arslan/)
 
 ---
 #### Work History
